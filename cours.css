@@ -1,6 +1,9 @@
 p,span{
 	font-size: 1em;
 }
+body{
+	background-color: grey;
+}
 .d1{
 	width: 50%;
 	height: 200 px;
